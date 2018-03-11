@@ -1,5 +1,7 @@
 pragma solidity ^0.4.0;
 
+*/This contract allows you to pass a string into a name function and an integer into an age function and call those function*/
+
 contract MyFirstContract {
     string private name;
     uint private age;
