@@ -1,5 +1,7 @@
 /*  This contract is written for the Ethereum virtual machine using solidity and returns 'Hello World' when run */
 
+pragma solidity ^0.4.0;
+
 contract hello {
     /* Define variable owner of the type address */
     address owner;
